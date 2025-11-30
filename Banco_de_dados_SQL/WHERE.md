@@ -10,3 +10,5 @@ SELECT actor_id, first_name, last_name
 FROM actor
 WHERE actor_id = 100;
 ```
+
+A outras formas de usar o `WHERE` usando o =, >, <, >=, <=, !=.
