@@ -15,7 +15,7 @@
 
         <!-- Logo abaixo temos a Super tag <?php?> que é usada para olocar o sódigo em php-->
         <?php
-            echo ("<h2>Olá mundo!</h2>"); // Com o comando echo, é possivel escrever caracteres ou variaveis.
+            echo ("<h2>Olá, mundo!</h2>"); // Com o comando echo, é possivel escrever caracteres ou variaveis.
         ?>
     </body>
-</html>
+</html> 
