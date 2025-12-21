@@ -1,5 +1,5 @@
 # BETWEEN
-Com o BETWEEN é possivel fazer mais um filtro de pesquisa, o BETWEEN seria um entre;
+Com o BETWEEN é possivel fazer mais um filtro de pesquisa, o BETWEEN seria um entre.
 
 ```
 SELECT * 
